@@ -28,6 +28,8 @@ body {
 
 .btn {
   margin-top: 2vh;
+  padding: .8rem;
+  border-radius: 5px;
   color: white;
   background-color: #202d7a;
   font-weight: bold;
